@@ -15,7 +15,7 @@ You need Python installed on your system. This game relies on the `pygame` libra
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/AaryanK47/aim-trainer
     cd aim-trainer
     ```
 
@@ -46,3 +46,4 @@ You need Python installed on your system. This game relies on the `pygame` libra
 
 ## License
 This project is open source and available for personal use.
+
